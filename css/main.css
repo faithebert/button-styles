@@ -30,12 +30,6 @@ div {
   background-color: #933;
 }
 
-div:first-child a {
-  background-color: #333;
-  color: #fff;
-  font-size: 1.125rem;
-}
-
 .btn {
   background-color: #333;
   color: #fff;

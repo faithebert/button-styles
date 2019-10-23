@@ -9,8 +9,12 @@ html {
 
 div {
   text-align: center;
-  margin: 1em;
+  margin: .78em;
   padding: .26em;
+}
+
+body:first-child {
+  margin-bottom: .9em;
 }
 
 .btn:hover {

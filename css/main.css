@@ -32,3 +32,8 @@ a {
 .btn-big {
   font-size: 1.5rem;
 }
+
+.btn-subtle {
+  color: #fff;
+  background-color: #ccc;
+}

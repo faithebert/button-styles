@@ -10,12 +10,17 @@ html {
 div {
   padding: .5rem;
   text-align: center;
+  margin: .5em;
 }
 
 a {
   text-decoration: none;
   border-radius: 8px;
   padding: .4em .75em .3em;
+}
+
+a:hover {
+
 }
 
 .btn {

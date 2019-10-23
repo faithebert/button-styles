@@ -10,6 +10,7 @@ html {
 div {
   padding: .5rem;
   text-align: center;
+  padding: .5em;
 }
 
 .btn:hover {
@@ -55,6 +56,9 @@ div {
 .btn-ghost {
   background-color: #fff;
   color: #000;
+  border-style: solid;
+  border-radius: 3px;
+  border-color: #000;
 }
 
 .btn-warning {

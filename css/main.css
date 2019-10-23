@@ -15,7 +15,6 @@ div {
 a {
   text-decoration: none;
   border-radius: 8px;
-  border-radius: 3px;
   padding: .4em .75em .3em;
 }
 
@@ -36,4 +35,15 @@ a {
 .btn-subtle {
   color: #fff;
   background-color: #ccc;
+}
+
+.btn-ghost {
+  border: 3px solid #000;
+  background-color: #fff;
+  color: #000;
+}
+
+.btn-warning {
+  background-color: #f33;
+  color: #fff;
 }

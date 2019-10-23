@@ -20,8 +20,9 @@ a {
 }
 
 a:hover {
-
+  background-color: #000;
 }
+
 
 .btn {
   background-color: #333;

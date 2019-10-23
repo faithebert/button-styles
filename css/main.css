@@ -13,12 +13,6 @@ div {
   margin: .5em;
 }
 
-a {
-  text-decoration: none;
-  border-radius: 8px;
-  padding: .4em .75em .3em;
-}
-
 .btn:hover {
   background-color: #000;
 }
@@ -38,9 +32,13 @@ a {
 }
 
 .btn {
+  display: inline-block;
   background-color: #333;
   color: #fff;
   font-size: 1.125rem;
+  text-decoration: none;
+  border-radius: 8px;
+  padding: .4em .75em .3em;
 }
 
 .btn-small {

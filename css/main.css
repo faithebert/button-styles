@@ -8,9 +8,9 @@ html {
 }
 
 div {
-  padding: .5rem;
+  padding: .3em;
   text-align: center;
-  padding: .5em;
+  margin-bottom: .5em;
 }
 
 .btn:hover {
@@ -57,7 +57,6 @@ div {
   background-color: #fff;
   color: #000;
   border-style: solid;
-  border-radius: 3px;
   border-color: #000;
 }
 

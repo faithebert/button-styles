@@ -8,9 +8,9 @@ html {
 }
 
 div {
-  padding: .2em;
+  padding: .4em;
   text-align: center;
-  margin-bottom: .5em;
+  margin-bottom: 0;
 }
 
 .btn:hover {
